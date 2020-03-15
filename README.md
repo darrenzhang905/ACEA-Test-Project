@@ -9,5 +9,5 @@ Technique:
 I started on the first subject page on onlinecourses.com which was accounting. Using the "view
 page source" feature on Google Chrome, I was able to find the CSS selectors to get the course
 name and tags. To get access to the URL, I used a Google Chrome extension called Selector Gadget
-to find the right selectors. I realized all the subject pages were similiar to I was able to 
+to find the right selectors. I realized all the subject pages were similiar so I was able to 
 scrape all the subject pages on this website. The results are in items.csv.
