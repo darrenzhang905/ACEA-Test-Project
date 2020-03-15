@@ -1,0 +1,534 @@
+course_name,subject,tags,url
+ACC 311: Fundamentals of Auditing,accounting,"CPA (Certified Public Accountant), Auditing, Finance",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=ACC311
+ACC 501: Business Finance,accounting,"Finance, Business",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=ACC501
+FIN 622: Corporate Finance,accounting,"Finance, Business",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=FIN622
+Management of Libraries and Information Services,accounting,"Financial Management, Human Resources, Management",http://open.umich.edu/education/si/si626/winter2009.html
+FIN 623: Taxation Management,accounting,"CPA (Certified Public Accountant), Business, Finance, Tax",http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Law&course=FIN623
+MGT 101: Financial Accounting,accounting,"Finance, Accounting",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=MGT101
+Financial Accounting,accounting,"Finance, Accounting, Reporting, Tax",http://ocw.mit.edu/courses/sloan-school-of-management/15-515-financial-accounting-fall-2003/index.htm
+Taxes and Business Strategy,accounting,"Finance, Accounting, Tax, Business, Strategy",http://ocw.mit.edu/courses/sloan-school-of-management/15-518-taxes-and-business-strategy-fall-2002/index.htm
+Corporate Finance for Health Care Administrators,accounting,"Finance, Medical Administration",http://open.umich.edu/education/sph/hmp607/fall2008.html
+Object-Oriented Programming in C++,computerscience,"Computer Engineering, Programming, Software Development",http://ocw.usq.edu.au/course/view.php?id=13
+CS 470/670: Artificial Intelligence,computerscience,"Systems Design, Engineering, Programming",http://ocw.umb.edu/computer-science/artificial-intelligence
+Introduction to Robotics,computerscience,"Computer Engineering, Robotics",http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743
+Introduction to Computer Science: Programming Methodology,computerscience,"Programming, Software Engineering",http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
+Introduction to Computer Science: Programming Abstractions,computerscience,"Programming, Software Engineering",http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
+Introduction to Computer Science: Programming Paradigms,computerscience,"Programming, Software Engineering, Information Technology",http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+Artificial Intelligence: Machine Learning,computerscience,"Robotics, Artificial Intelligence, Machine Learning",http://see.stanford.edu/see/courseinfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1
+Artificial Intelligence: Natural Language Processing,computerscience,"Robotics, Artificial Intelligence, Natural Language Processing (NLP)",http://see.stanford.edu/see/courseinfo.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a
+Exposing Digital Photography,computerscience,"Photography, Hardware",http://tv.cse7.org/2010/fall/
+"Compilers: Principles, Techniques, and Tools",computerscience,"Compilers, Programming Languages",http://dragonbook.stanford.edu/
+Introduction to Videogame Studies,computerscience,"Videogame, Technology",http://ocw.mit.edu/courses/comparative-media-studies/cms-300-introduction-to-videogame-studies-fall-2011/
+Computers in Our World,computerscience,"Computing, Technology, Programming",https://www.cs.princeton.edu/courses/archive/fall06/cos109/
+Introduction to Computer Graphics,computerscience,"Computer Graphics, Transformations, Graphics",http://www.cs.ubc.ca/~tmm/courses/314/Vjan2007/
+Logic Programming,computerscience,"Logic, Programming, Static Analyses",https://www.cs.cmu.edu/~fp/courses/lp/handouts.html
+Computer Game Programming,computerscience,"Game Programming, Programming, Java",http://www.emunix.emich.edu/~evett/GameProgramming/index.html
+Introduction to Database Systems,computerscience,"Calculus, Algebra, Modeling, Databases",http://inst.eecs.berkeley.edu/~cs186/fa06/notes.php
+Introduction to Computer Systems,computerscience,"Programming, Memory, Machines, Internetworking",https://www.cs.cmu.edu/afs/cs/academic/class/15213-f06/www/lectures.html
+Linear Logic,computerscience,"Linear Logic, Deductions, Programming",https://www.cs.cmu.edu/~fp/courses/linear/handouts.html
+Automatic Speech Recognition,computerscience,"Algorithms, Automation, Engineering",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/
+Introduction to Programming,computerscience,"Programming, Transformers, Machines",http://www.eecs.qmul.ac.uk/~mmh/ItP/resources/index.html
+Algorithms and Data Structures,computerscience,"Algorithms, Data Structures, Java",http://www.eecs.qmul.ac.uk/~mmh/DCS128/notes/new_index.html
+Data Communication Networks,computerscience,"Databases, Networking",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-263j-data-communication-networks-fall-2002/lecture-notes/
+Concepts and Tools for Software Development,computerscience,"Software Development, Programming",https://www.cs.washington.edu/education/courses/cse303/07wi/
+Machine Learning,computerscience,"Machine Learning, Systems, Robotics",https://www.cs.cmu.edu/~awm/15781/
+CSE 461: Computer Communication and Networks,computerscience,"Networking, Databases, Internetworking",https://www.cs.washington.edu/education/courses/cse461/07wi/lectures/index.html
+CSE 403: Software Engineering,computerscience,"Software Engineering, Programming",https://www.cs.washington.edu/education/courses/cse403/07wi/
+CSE 322: Introduction to Formal Models in Computer Science,computerscience,"Formal Models, Programming Languages",https://www.cs.washington.edu/education/courses/cse322/06sp/
+CSE 326: Data Structures,computerscience,"Data Structures, Programming",https://www.cs.washington.edu/education/courses/cse326/07wi/lectures/calendar_wi07.htm
+Machine Organization and Assembly,computerscience,"Machine Organization, Assembly Language Programming, Programming",https://www.cs.washington.edu/education/courses/cse378/07wi/syllabus/index.shtml
+CSE444 Introduction to Database Systems,computerscience,"Databases, Networking, Query Execution",https://www.cs.washington.edu/education/courses/cse444/06au/Calendar.htm
+CSE 451: Operating Systems,computerscience,"Operating Systems, Systems, Memory",https://www.cs.washington.edu/education/courses/cse451/07wi/lectures.htm
+Advanced Internet and Web Services,computerscience,"Web Services, Internet, Interfaces",https://www.cs.washington.edu/education/courses/cse454/05sp/slides.html
+Computer Vision,computerscience,"Segmentation, Object Recognition, Optical Flow",https://www.cs.washington.edu/education/courses/cse455/07wi/notes.html
+Software for Embedded Systems,computerscience,"Software, Embedded Systems, Networks",https://www.cs.washington.edu/education/courses/cse466/06wi/lectures/
+Advanced Digital Design,computerscience,"Digital Synthesis, Modeling, Digital Design",https://www.cs.washington.edu/education/courses/cse467/05wi/calendar.html
+CSE 471: Computer Design and Organization,computerscience,"Caching, Synchronization, Processors, Dataflow",https://www.cs.washington.edu/education/courses/cse471/06sp/lectures.html
+CSE 473: Artificial Intelligence,computerscience,"Artificial Intelligence, Networks, Inference",https://www.cs.washington.edu/education/courses/cse473/06au/schedule/
+CSE 490: Introduction to Data Compression,computerscience,"Information Theory, Databases, Arithmetic Coding",https://www.cs.washington.edu/education/courses/cse490g/06wi/
+Design in Neurobotics,computerscience,"Neurobotics, Robotics",https://www.cs.washington.edu/education/courses/cse490i/07wi/lectures.html
+Computer Systems,computerscience,"Systems, Engineering",https://www.cs.washington.edu/education/courses/cse410/06sp/calendar410.html
+CSE 415: Introduction to Artificial Intelligence,computerscience,"Simulation, Artificial Intelligence, Ensembles",https://www.cs.washington.edu/education/courses/cse415/06wi/notes.html
+Algorithms & Computational Complexity,computerscience,"Algorithms, Computation",https://www.cs.washington.edu/education/courses/cse417/07wi/
+Implementation of Programming Languages,computerscience,"Programming Languages, Compiler Organization, Software Development",https://www.cs.washington.edu/education/courses/cse501/04wi/slides/index.html
+CSE503: Software Engineering,computerscience,"Software Development, Programming",https://www.cs.washington.edu/education/courses/cse503/06sp/
+Computational Neuroscience,computerscience,"Neurobiology, Networks, Coding",https://www.cs.washington.edu/education/courses/cse528/05wi/lectures.html
+Communicating with Mobile Technology,computerscience,"Mobile Technology, Mobile Applications, Engineering",http://ocw.mit.edu/courses/writing-and-humanistic-studies/21w-789-communicating-with-mobile-technology-spring-2011/
+Computer Vision,computerscience,"Matlab, Robotics, Computational Vision",http://www.robots.ox.ac.uk/~dwm/Courses/4CV/index.html
+CS 446: Real-Time Rendering,computerscience,"Rendering Engine, 3D Graphics, Visibility",https://www.cs.virginia.edu/~gfx/Courses/2004/RealTime/
+Introduction to Computer Graphics,computerscience,"Computer Graphics, Modeling, Programming",https://www.cs.virginia.edu/~gfx/Courses/2004/Intro.Spring.04/
+Animation,computerscience,"Inverse Kinematics, Motion Capture, Animation, Optimization, Physical Simulation",https://www.cs.virginia.edu/~gfx/courses/2003/Animation.fall.03/index.html
+Image Synthesis,computerscience,"Image Synthesis, Rendering, Computer Graphics",https://www.cs.virginia.edu/~gfx/Courses/2003/ImageSynthesis/
+Information Visualization,computerscience,"Perception, High Dimensionality, Animation",http://www.cs.ubc.ca/~tmm/courses/cpsc533c-06-fall/
+Introduction to Computation (Java),computerscience,"Computation, Java, Hardware",http://www.cs.ubc.ca/~tmm/courses/cpsc111-06-spr/
+Advanced Topics in Cryptography,computerscience,"Cryptography, Secure Computation, Mathematics",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-876j-advanced-topics-in-cryptography-spring-2003/lecture-notes/
+Quantum Computation,computerscience,"Quantum Computation, Information Processing, Quantum Logic, Quantum Algorithms",http://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm
+Principles of Digital Communication,computerscience,"Digital Communication, Communications, Data Compression",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-450-principles-of-digital-communication-i-fall-2009/
+I/O-Algorithms,computerscience,"Algorithms, Memory, Data Structures",http://www.daimi.au.dk/~large/ioS08/index.html
+Programming Languages and Translators,computerscience,"Programming Languages, Translators, Programming",http://www1.cs.columbia.edu/~aho/cs4115/
+Science of Sound,computerscience,"Electrical Engineering, Computing Engineering",http://ocw.usu.edu/Electrical_and_Computer_Engineering/Science_of_Sound/
+XML Foundations,computerscience,"Extensible Markup Language (XML), Programming Languages, Syntax",http://dret.net/lectures/xml-fall06/
+Introduction to Artificial Intelligence,computerscience,"Artificial Intelligence, Probability, Speech Recognition",http://www-inst.eecs.berkeley.edu/~cs188/fa06/lectures.html
+Python Track,computerscience,"Python, Programming Language, Coding",http://courses.cms.caltech.edu/cs11/material/python/index.html
+Introduction to Algorithms,computerscience,"Algorithms, Dynamic Programming, Numbers Pictures (NP)",http://courses.csail.mit.edu/6.006/spring11/notes.shtml
+Haskell Track,computerscience,"Haskell, Programming Language, DSLs (Domain-Specific Languages)",http://courses.cms.caltech.edu/cs11/material/haskell/index.html
+Java Track,computerscience,"Java, Programming Language, Coding",http://courses.cms.caltech.edu/cs11/material/java/mike/
+Advanced C++,computerscience,"C++, Standard Template Library (STL), Algorithms",http://courses.cms.caltech.edu/cs11/material/advcpp/index.html
+C++,computerscience,"C++, Functions, Algorithms",http://courses.cms.caltech.edu/cs11/material/cpp/donnie/index.html
+C Track,computerscience,"C Programming Language, UNIX, Coding",http://courses.cms.caltech.edu/cs11/material/c/mike/index.html
+Data Structures and Algorithms,computerscience,"Operating Systems, Data Structures, Algorithms",http://people.cis.ksu.edu/~schmidt/300s05/Lectures/home.html
+Java Programming,computerscience,"Java Programming, Programming Languages",http://sofia.fhda.edu/gallery/java/lessons.html
+Computer Language Engineering,computerscience,"Programming Languages, Functions, Software Development",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/
+Computational Camera and Photography,computerscience,"Computer Graphics, Electronics",http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/index.htm
+CS186: Introduction to Database Systems,computerscience,"Database Systems, Relational Algebra, Query Processing",http://inst.eecs.berkeley.edu/~cs186/fa06/notes.php
+Computer Science 164: Mobile Software Engineering,computerscience,"Computer Engineering, Mobile Engineering, Web Design",http://cs.harvard.edu/malan/courses/
+CHE 466: Process Dynamics and Controls,computerscience,"Process Technology, Engineering, Chemical Engineering",http://open.umich.edu/education/engin/che/che466/fall2008.html
+Quantum Computation,computerscience,"Science, Physics, Engineering",http://www.quiprocone.org/Protected/DD_lectures.htm
+The Beauty of Joy of Computing,computerscience,"Programming, Software Engineering","http://webcast.berkeley.edu/playlist#c,s,All,A048EC6D65F1CB15"
+Understanding Computers and the Internet,computerscience,"Hardware, Software, Internet, Website Development, Programming",http://computerscience1.tv/2011/spring/
+Building Mobile Applications - Android/iOS Apps,computerscience,"Applications, Programming",http://cs76.tv/2011/spring/
+Practical Aspects of Modern Cryptography,computerscience,"Cryptography, Protocols, Solutions, Digital Rights Management",https://www.cs.washington.edu/education/courses/csep590/06wi/lectures/
+"Search Engines: Technology, Society, and Business",computerscience,"Search Engines, Internet, Technology, Business","http://webcast.berkeley.edu/playlist#c,s,All,1777A89066B1D71D"
+The Structure and Interpretation of Computer Programs,computerscience,"Programming, Functions","http://webcast.berkeley.edu/playlist#c,s,All,3E89002AA9B9879E"
+Programming Languages and Compilers,computerscience,"Compilers, Programming Languages","http://webcast.berkeley.edu/playlist#c,s,All,03D59E2ECDDA66DF"
+Computer Musings,computerscience,"Literate Programming, Programming",http://scpd.stanford.edu/knuth/index.jsp
+Structure and Interpretation of Computer Programs,computerscience,"Computer Languages, Programming",https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+Introduction to Computer Science I,computerscience,"Programming, Software Engineering",http://cs50.tv/2011/fall/
+Music and Technology: Live Electronics Performance Practices,computerscience,"Electronics, Computer Synthesis Programming, Hardware, Software",http://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/
+Data Structures and Advanced Programming (Java),computerscience,"Data Structures, Programming, Java",http://wla.berkeley.edu/main.php?course=cs61b
+Circuits and Electronics,computerscience,"Circuits, Electronics, Electrical Engineering",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/
+Data Structures and Advanced Programming,computerscience,"Interfaces, Algorithmic Analysis, Programming",http://www-inst.eecs.berkeley.edu/~cs61b/sp06/lectures/index.html
+Vision Algorithms,computerscience,"Image Statistics, Energy, Algorithms, Partial Differential Equations",https://www.cs.washington.edu/education/courses/cse577/04sp/contents.html#BP
+Principles of Digital Communication II,computerscience,"Coding, Digital Communication",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-451-principles-of-digital-communication-ii-spring-2005/
+Introduction to Embedded Systems,computerscience,"Modeling, Dynamics, Systems","http://webcast.berkeley.edu/playlist#c,s,All,26403B76DCC8FFC8"
+Grid Computing,computerscience,"Grid Computing, Networking, Functionality",http://www.cs.kent.edu/~farrell/grid06/lectures/index.html
+Law and Veterinary Medicine,criminal-justice,"Criminal Law, Civil Law",http://ocw.tufts.edu/data/43/481655.pdf
+International Studies: Global Issues & Institutions,criminal-justice,"Terrorism, Political Science",http://ocw.uci.edu/courses/International-Studies-12-Global-Issues--Institutions.aspx
+IIPS 30101: Introduction to Peace Studies,criminal-justice,"Political Science, Government",http://ocw.nd.edu/peace-studies/introduction-to-peace-studies
+Theories of Public Policy,criminal-justice,"Public Policy, Law, Government",http://ocw.tufts.edu/Course/8/CourseHome
+"Disaster, Vulnerability and Resilience",criminal-justice,"Social, Political, Disaster, Policy & Planning",http://ocw.mit.edu/courses/urban-studies-and-planning/11-941-disaster-vulnerability-and-resilience-spring-2005/index.htm
+Ethics and the Law on the Electronic Frontier,criminal-justice,"Law, Policy, Internet, Technology, PATRIOT Act",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/
+Forensic Psychology,criminal-justice,"Forensic, Psychology, Crime, Violence, Psychoanalytics",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Psychology&course=PSY513
+Law and Society,criminal-justice,"Law, Legal, Society, Policy",http://ocw.mit.edu/courses/anthropology/21a-219-law-and-society-spring-2003/
+"Warlords, Terrorists, and Militias: Theorizing on Violent Non-State Actors",criminal-justice,"Terrorism, Violence, Warlords, Governments",http://ocw.mit.edu/courses/political-science/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/index.htm
+Immigration Law Symposium,criminal-justice,"Physical, Cognitive, Intelligence, PE",http://ocw.uci.edu/courses/Immigration-Law-Symposium.aspx
+Teaching Students with Special Needs: Behaviour Management,education,"Community Education, Youth Development",http://ocw.usq.edu.au/course/view.php?id=11
+Education 173: Cognition & Learning in Educational Settings,education,"Psychology, Educational Psychology",http://ocw.uci.edu/courses/Education-173-Cognition--Learning-in-Educational-Settings.aspx
+Technology and Society,education,"Sociology, Counselor Education",http://ocw.usq.edu.au/course/view.php?id=14
+Special Topics: Open Educational Resources and the University of Michigan,education,Technology Education,http://open.umich.edu/education/si/si521/winter2009.html
+PE for ME,education,"Physical, Cognitive, Intelligence, PE",http://ocw.mit.edu/courses/athletics-physical-education-and-recreation/pe-920-pe-for-me-spring-2005/
+Introduction to Open Education,education,"Open, Education, Copyright, Licensing, Learning, Thinking, Writing",http://ocw.usu.edu/instructional-technology-learning-sciences/introduction-to-open-education/index.html
+Research for the Classroom Teacher,education,"Model, Teaching, Classroom",http://ocw.usu.edu/education/research-for-the-classroom-teacher/index.html
+Preschool Learning Standards and Guidelines,education,"Preschool, Early, Childhood, Education",http://ocw.umb.edu/early-education-development/eec-preschool-learning-standards-and-guidelines
+Tennis,education,"Tennis, Techniques, Tactics",http://ocw.mit.edu/courses/athletics-physical-education-and-recreation/pe-710-tennis-spring-2007/
+Dementia: Update for the Practitioner,healthcare,"Medicine, Neurology, Healthcare",http://ci.columbia.edu/ci/ecourses/c1182_detail.html
+Epidemiology,healthcare,"Public Health, Epidemiology",http://open.uwec.edu/course/64/epidemiology
+Leadership Training Workshop for Health Professionals,healthcare,"Health Information Management, Healthcare, Public Health",http://open.umich.edu/education/med/oernetwork/health-admin/org-admin/leadership-health/2012.html
+Management: Waste Management,healthcare,"Public Health, Veterinary Medicine, Clinical Medicine",http://ocw.tufts.edu/Content/46/lecturenotes/532600/532621
+Medical Interviewing and the Doctor-Patient Relationship,healthcare,"Technical Communication, Communications, Allied Health",http://ocw.tufts.edu/Content/70/lecturenotes/1232943
+Medicine and Public Health in American History,healthcare,"Medical Science, Medicine, History",http://ocw.nd.edu/history/medicine-and-public-health-in-american-history
+Population Medicine,healthcare,"Public Health, Epidemiology",http://ocw.tufts.edu/Course/42
+Quality Oversight in the Health Care Marketplace,healthcare,"Quality Assurance, Medicine, Policies",http://ocw.tufts.edu/Course/69
+Measuring Health and Disease I: Introduction to Epidemiology Module Guide,healthcare,"Public Health, Epidemiology",http://open.umich.edu/education/med/oernetwork/public-health/epidemiology/intro-epidemiology/2010.html
+Health Management I Module Guide,healthcare,"Medical Administration, Management",http://open.umich.edu/education/med/oernetwork/health-admin/org-admin/health-management-i/2008.html
+Managing Human Resources for Health Module Guide,healthcare,"Healthcare Management, Healthcare Administration, Human Resources",http://open.umich.edu/education/med/oernetwork/health-admin/org-admin/managing-hr-health/2010.html
+Public Health Emergency Planning and Management for Districts,healthcare,"Public Health, Healthcare Policy, Disaster Management",http://open.umich.edu/education/med/oernetwork/public-health/ep/disaster-response/2012.html
+Public Hygiene and Epidemiology,healthcare,"Public Health, Epidemiology",http://ocw.tudelft.nl//courses/watermanagement/public-hygiene-and-epidemiology/course-home/
+PPM 121 Nutrition and Medicine,healthcare,"Nutrition, Human Health",http://ocw.tufts.edu/Course/47
+Workshops in End-of-Life Training for Health Professionals in Children's Hospitals,healthcare,"Pediatrics, Medicine",http://open.umich.edu/education/med/resources/palliative-care/2010.html
+Using Asthma Equipment with Children,healthcare,"Pediatrics, Medicine",http://open.umich.edu/education/med/resources/pediatric-asthma-equipment/2011.html
+Lennox Castle Hospital,healthcare,"History, Healthcare Administration",http://www.open.edu/openlearn/body-mind/social-care/lennox-castle-hospital/content-section-0?name=K100_7
+Motivational Interviewing,healthcare,"Communications, Medical Communication",http://ocw.tufts.edu/Content/70/lecturenotes/1259452
+Special Care in Dentistry,healthcare,"Dental, Medicine, Special Needs",http://ocw.tufts.edu/Course/56/Coursehome
+Foundations of Public Health,healthcare,"Public Health, Epidemiology, Research",http://ocw.uci.edu/courses/Foundations-of-Public-Health-Pub-Hlth-200.aspx
+Medical Ethics,healthcare,"Ethics, Medicine",http://ocw.nd.edu/philosophy/medical-ethics
+African American Studies 40A: African American Studies,humanities,"Culture Studies, Creative Studies",http://ocw.uci.edu/courses/African-American-Studies-40A-African-American-Studies.aspx
+"Monarchs, People, and History",humanities,"History, Organizational Leadership, Institutional Leadership",http://ocw.umb.edu/history/monarchs-people-and-history
+New Media Literacies,humanities,"Literacy, New Media, History",http://ocw.mit.edu/courses/comparative-media-studies/cms-998-new-media-literacies-spring-2007/
+Understanding Records and Archives: Principles and Practices,humanities,"History, Sociology, Archival Science",http://open.umich.edu/education/si/si580/winter2009.html
+Forms of Democracy in Nineteenth-Century U.S. Literature,humanities,"Language Arts, Literature, Political Science",http://ocw.nd.edu/english/forms-of-democracy-in-nineteenth-century-u.s.-literature
+Reinventing the Fairy Tale,humanities,"Reading, Language Arts, Literature",http://ocw.nd.edu/english/reinventing-the-fairy-tale
+Women's Narrative in the Southern Cone,humanities,"Reading, Language Arts, Literature, Sociology, Spanish",http://ocw.nd.edu/romance-languages-and-literatures/womens-narrative-in-the-southern-cone
+Cultural Anthropology,humanities,"Anthropology, Cultural Studies",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Sociology&course=SOC401
+Introduction to Sociology,humanities,"Sociology, Social Science",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Sociology&course=SOC101
+"Internet History, Technology, and Security",information-technology,"IT Security, Cyber Security",http://open.umich.edu/education/si/coursera-ihts/summer2012.html
+Ethics and Information Technology,information-technology,"Ethics, Cyber Security",http://open.umich.edu/education/si/si410/fall2010.html
+SI 640/ SI740: Digital Libraries and Archives,information-technology,Library Science,http://open.umich.edu/education/si/si640/winter2009.html
+SI 657/757: Information Technology and Global Development,information-technology,"Instructional Technology, Information Policies",http://open.umich.edu/education/si/si657/winter2010.html
+SI 615: Seminar on Digital Libraries,information-technology,Library Science,http://open.umich.edu/education/si/si615/winter2008.html
+SI 643: Professional Practice in Libraries and Information Centers,information-technology,Library Science,http://open.umich.edu/education/si/si643/winter2009.html
+SI 626: Management of Libraries and Information Services,information-technology,"Library Science, Management, Public Relations",http://open.umich.edu/education/si/si626/winter2009.html
+Leadership and Management: Managing Change in Healthcare IT Implementations,information-technology,"Management Information Systems, Healthcare Management",http://open.umich.edu/education/med/oernetwork/informatics/med/managing-change-healthcare-it/2011.html
+Database Systems,information-technology,"Database, Systems, Technology",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/index.htm
+Data Mining,information-technology,"Data, Mining, Data Warehouses, Technology, Statistics",http://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/index.htm
+Microsoft PowerPoint - Lesson 1,information-technology,"Presentations, Microsoft, PowerPoint, Slides",http://ocw.usu.edu/instructional-technology-learning-sciences/computer-applications-for-instruction-and-training/Microsoft_PowerPoint_-_Lesson_1.html
+Practical Programming in C,information-technology,"C, Programming, Software, Unix",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm
+Creole Language and Culture,language,"Culture Studies, Creative Studies, Linguistics, Reading",http://ocw.nd.edu/romance-languages-and-literatures/creole-language-and-culture
+Germany Today: Intensive Study of German Language and Culture,language,"German, Language, Culture, Professionals",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/index.htm
+Portuguese II,language,"Portuguese, Linguistics, Language",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-802-portuguese-ii-spring-2012/index.htm
+Chinese I (Regular),language,"Chinese, Mandarin, Language",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-101-chinese-i-regular-spring-2006/index.htm
+Elementary Russian I,language,"Russian, Language, Vocabulary, Culture",http://ocw.usask.ca/AR/RUSS/114/
+Intermediate Japanese I,language,"Language, Japanese",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-503-intermediate-japanese-i-fall-2004/
+English as a Second Language (ESL) Podcast - Learn English Online,language,"English, Language, Secondary Language",https://itunes.apple.com/us/podcast/english-as-second-language/id75908431?mt=2&ign-mpt=uo%3D4
+Japanese I,language,"Language, Japanese",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-501-japanese-i-fall-2012/
+Linear Partial Differential Equations,math,"Differential Equations, Applied Mathematics, Wave Equations",http://ocw.mit.edu/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/
+Geometry and Quantum Field Theory,math,"Quantum Field Theory, Geometry, Functional Integrals",http://ocw.mit.edu/courses/mathematics/18-238-geometry-and-quantum-field-theory-fall-2002/index.htm
+Combinatorial Optimization,math,"Combinatorial Optimization, Linear Programming",http://ocw.mit.edu/courses/mathematics/18-433-combinatorial-optimization-fall-2003/index.htm
+Introduction to Numerical Methods,math,"Numerical Linear Algebra, Numerical Methods, Differential Equations",http://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/
+Measure and Integration,math,"Fourier Transform, Integration",http://ocw.mit.edu/courses/mathematics/18-125-measure-and-integration-fall-2003/index.htm
+Topics in Several Complex Variables,math,"Harmonic Theory, Decomposition Theorem",http://ocw.mit.edu/courses/mathematics/18-117-topics-in-several-complex-variables-spring-2005/index.htm
+Discrete Mathematics for Computer Science,math,"Modular Arithmetic, Polynomials, Probability, Statistics",http://www-inst.eecs.berkeley.edu/~cs70/fa06/#lecturenotes
+Abstract Algebra,math,"Group Fundamentals, Algebraic Number Theory, Geometry",http://www.math.uiuc.edu/~r-ash/Algebra.html
+Algebraic Number Theory,math,"Prime Ideals, Discriminants, Number Theory",http://www.math.uiuc.edu/~r-ash/ANT.html
+Commutative Algebra,math,"Algebra, Ring Theory, Dimension Theory",http://www.math.uiuc.edu/~r-ash/ComAlg.html
+Complex Variables,math,"Elementary Theory, Complex Variables, Analytic Functions",http://www.math.uiuc.edu/~r-ash/CV.html
+Statistics,math,"Statistics, Probability",http://www.math.uiuc.edu/~r-ash/Stat.html
+Analytic Number Theory I,math,"Analytic Techniques, Number Theory",http://www.math.psu.edu/rvaughan/Math571F04.html
+Complex Numbers and Ordinary Differential Equations,math,"Differentials, Complex Numbers",http://www.physics.ox.ac.uk/users/ross/lecturenotes.htm
+Geometry,math,"Algebraic Curves, Differentiable Manifolds, Geometry",http://people.maths.ox.ac.uk/hitchin/hitchinnotes/hitchinnotes.html
+Statistics,math,"Statistics, Probability, Simulation",http://www.stats.ox.ac.uk/~reinert/
+Analysis of Boolean Functions,math,"Boolean Functions, Linearity, Fourier Expansion",https://www.cs.cmu.edu/~odonnell/boolean-analysis/
+Polynomials of Random Variables,math,"Polynomials, Random Variables, Probability, Statistics",http://www.stat.berkeley.edu/~mossel/teach/206af05/index.htm
+Topics in Geometry: Dirac Geometry,math,"Geometry, Symmetry",http://ocw.mit.edu/courses/mathematics/18-969-topics-in-geometry-dirac-geometry-fall-2006/
+Random Walks and Diffusion,math,"Random Walks, Diffusion",http://ocw.mit.edu/courses/mathematics/18-366-random-walks-and-diffusion-fall-2006/index.htm
+Single Variable Calculus,math,"Calculus, Differentiation, Functions",http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2005/
+Geometry of Manifolds,math,"Geometry, Manifolds",http://ocw.mit.edu/courses/mathematics/18-966-geometry-of-manifolds-spring-2007/index.htm
+Calculus of Several Variables,math,Multivariable Calculus,http://ocw.mit.edu/courses/mathematics/18-022-calculus-of-several-variables-fall-2010/
+Honors Differential Equations,math,"Differential Equations, Existence Theorems",http://ocw.mit.edu/courses/mathematics/18-034-honors-differential-equations-spring-2009/
+Single Variable Calculus,math,"Calculus, Math, Mathematics",http://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+Problem Solving Seminar,math,"Math, Mathematics, Problem Solving, Techniques",http://ocw.mit.edu/courses/mathematics/18-s34-problem-solving-seminar-fall-2007/assignments/
+Mathematics for Computer Science,math,"Discrete Math, Mathematics, Computer Science",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/
+Probabilistic Systems Analysis and Applied Probability,math,"Math, Mathematics, Probability, Statistics",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/
+Multivariable Calculus,math,"Calculus, Math, Mathematics",http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-spring-2006/
+Elements of Calculus I,math,"Calculus, Math, Mathematics",http://ocw.nd.edu/mathematics/elements-of-calculus-i
+Calculus II for Business,math,"Calculus, Math, Mathematics, Business, Models",http://ocw.nd.edu/mathematics/calculus-ii-for-business
+The Art of Counting,math,"Math, Mathematics, Quantitative",http://ocw.mit.edu/courses/mathematics/18-s66-the-art-of-counting-spring-2003/
+Differential Equations,math,"Differential Equations, Engineering",http://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/
+The Calculus Lifesaver: All the Tools You Need to Excel at Calculus,math,"Functions, Trigonometry, Exponentials, Theorems",https://press.princeton.edu/video/banner/
+Search for Randomness,math,"Pseudorandomness, Cryptography, Numerical Simulation",http://video.ias.edu/Search-for-Randomness
+The Practice of Mathematics,math,"Algebra, Geometry",http://video.ias.edu/The-Practice-of-Mathematics
+Automorphic Forms,math,"Theorems, Analytic Number Theory, Arithmetic, Geometry",http://video.ias.edu/Automorphic-Forms
+Relativity,physics,"Relativity, Paradoxes, Electromagnetism, Particle Physics",http://ocw.mit.edu/courses/physics/8-033-relativity-fall-2006/
+Physics of Rock Climbing,physics,"Engineering, Communications",http://ocw.mit.edu/courses/experimental-study-group/es-255-physics-of-rock-climbing-spring-2006/
+Galileo and Einstein,physics,"Relativity, Time, Space",http://galileo.phys.virginia.edu/classes/109N/lectures/lecturelist.html
+Modern Physics,physics,"Relativity, Quantum Mechanics",http://galileo.phys.virginia.edu/classes/252/home.html
+Advanced Quantum Mechanics,physics,"Quantum Mechanics, Particle Physics",http://www.physics.ox.ac.uk/users/ross/Advanced%20Quantum%20Mechanics.htm
+Fundamental Principles of Particle Physics,physics,"Particle Physics, Quantum Mechanics",http://www.physics.ox.ac.uk/users/ross/cern_lectures.htm
+Laser Physics,physics,"Molecular Spectra, Energy, Chemistry",http://www.physics.ox.ac.uk/users/hooker/teaching/
+Galaxies and the Expanding Universe,physics,"Atomic Theory, Astrophysics, Astronomy, Cosmology",http://abyss.uoregon.edu/~js/ast123/
+Stellar Structure and Evolution,physics,"Astrophysics, Science, Stellar Classification",http://www-astro.physics.ox.ac.uk/~podsi/lec_mm03.html
+Mobile Robots,physics,"Mobile Robots, Engineering",http://www.robots.ox.ac.uk/~pnewman/Teaching/C4CourseResources/C4BResources.html
+Introduction to Plasma Physics I,physics,"Plasma Physics, Electromagnetic Theory, Energy",http://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2003/
+Astrophysics II,physics,"Astrophysics, Science, Astronomy",http://ocw.mit.edu/courses/physics/8-902-astrophysics-ii-fall-2004/
+Quantum Theory I,physics,"Quantum Theory, Uncertainty Relations, Quantum Mechanics",http://ocw.mit.edu/courses/physics/8-321-quantum-theory-i-fall-2002/
+Physics for Humanists,physics,"Relative Motion, Quantum Physics, Probability, Nuclear Radiation",http://ocw.tufts.edu/Course/30/Lecturenotes
+Applied Nuclear Physics,physics,"Nuclear Physics, Energy, Matter",http://ocw.mit.edu/courses/nuclear-engineering/22-101-applied-nuclear-physics-fall-2006/
+Polymer Physics,physics,"Polymer Physics, Mechanics",http://ocw.mit.edu/courses/materials-science-and-engineering/3-063-polymer-physics-spring-2007/
+Mechanical Behavior of Materials,physics,"Mechanical Behavior, Materials, Structures",http://ocw.mit.edu/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/
+Feedback Control Systems,physics,"Control Design, Implementation Issues, Controllers",http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-30-feedback-control-systems-fall-2010/lecture-notes/
+Optical Physics and Quantum Electronics,physics,"Electromagnetic Fields, Radiation, Matter, Quantum Theory",http://people.seas.harvard.edu/~jones/ap216/lectures/lectures.html
+Quantum Theory II,physics,"Quantum Theory, Stressing Principles",http://ocw.mit.edu/courses/physics/8-322-quantum-theory-ii-spring-2003/
+Introduction to Modern Physics,physics,"Relativity, Transformations, Wave Functions, Probability",http://ocw.tufts.edu/Course/36/Lecturenotes
+MHD Theory of Fusion Systems,physics,"MHD Equilibria, Fusion Systems, Energy",http://ocw.mit.edu/courses/nuclear-engineering/22-615-mhd-theory-of-fusion-systems-spring-2007/
+Spacetime Warps and the Quantum,physics,"Relativity, Time, Space, Astrophysics",http://online.kitp.ucsb.edu/online/plecture/thorne/
+Introduction to Solar System Astronomy,physics,"Astronomy, Cosmology, Science",http://www.astronomy.ohio-state.edu/~pogge/Ast161/Audio/
+Planets and Life beyond the Solar System,physics,"Astronomy, Science",http://www.bath.ac.uk/podcast/
+PHYS 200: FUNDAMENTALS OF PHYSICS I,physics,"Science, Mathematics",http://oyc.yale.edu/physics/phys-200
+Physics I: Classical Mechanics,physics,"Science, Mechanics",http://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/
+"String Theory, Black Holes, Laws of Nature",physics,"Science, Mathematics, String Theory, Astronomy",http://athome.harvard.edu/programs/sst/index.html
+Physics II: Electricity and Magnetism,physics,"Science, Electricity, Magnetism",http://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/
+Natures Greatest Puzzles,physics,"Kinematics, Cosmology, Astronomy, Matter, Mathematics, Science",http://www.slac.stanford.edu/econf/C040802/program.htm
+Exploring Black Holes: General Relativity & Astrophysics,physics,"Science, Mathematics, Cosmology, Astrophysics",http://ocw.mit.edu/courses/physics/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/
+Frontiers and Controversies in Astrophysics,physics,"Science, Astrophysics","http://webcast.berkeley.edu/playlist#c,s,All,69F56882DF6F04B3"
+Gravity in the Quantum World and the Cosmos,physics,"Gravity, Science, Chemistry, Cosmology",http://www-conf.slac.stanford.edu/ssi/2005/program.htm
+Gravity in the Quantum World and the Cosmos,physics,"Gravity, Science, Chemistry, Cosmology",http://www-conf.slac.stanford.edu/ssi/2005/program.htm
+A Complete Search for New Suns,physics,"Astrophysics, Science, Cosmology",http://athome.harvard.edu/programs/css/index.html
+The Evolution of Bodies Bound by Gravity,physics,"Physical Law, Heat Flows, Gravity",http://video.ias.edu/Bodies-Bound-by-Gravity
+Optics,physics,"Optics, Lens, Mirrors, Polarization",http://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/
+In the Beginning: Modern Cosmology and the Origin of Our Universe,physics,"Cosmology, Astrophysics, Science",http://video.ias.edu/In-the-Beginning
+Physics,physics,"Mechanics, Electricity, Magnetism",http://oli.cmu.edu/courses/future/physics-course-details/
+A Celebration of the Life and Work of John Norris Bahcall,physics,"Astrophysics, Astronomy, Cosmology",http://video.ias.edu/Celebration-of-John-Bahcall
+Easter Island and Entropy,science,"Entropy, Physics, Geology, Ecology",http://ocw.nd.edu/philosophy/environmental-philosophy/lecture-transcripts/easter-island-and-entropy
+Marine Power and Propulsion,science,"Marine Science, Engineering",http://ocw.mit.edu/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/
+"Planning, Policy and Design: Water Resource Policy",science,"Environmental Engineering, Ecology",http://ocw.uci.edu/courses/Policy-Planning-and-Design-139-Water-Resource-Policy.aspx
+PHIL 30390 - Environmental Philosophy,science,"Philosophy, Ecology, Environmental Science",http://ocw.nd.edu/philosophy/environmental-philosophy
+General Science,science,"Scientific Method, Biology, Physics, Chemistry",http://ocw.usq.edu.au/course/view.php?id=10
+Environmental Science Lab,science,"Environmental Science, Ecology, Conservation",http://ocw.kaplan.edu/general-education/sc226-environmental-science-lab
+The Rise of Modern Science,science,"Science, History, Society",http://ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/
+"Atmosphere, Ocean and Climate Dynamics",science,"Physics, Ocean, Atmosphere, Climate, Planets",http://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/
+Disease and Society in America,science,"Medicine, Disease, Culture, Politics",http://ocw.mit.edu/courses/science-technology-and-society/sts-005-disease-and-society-in-america-fall-2005/
+Mechanical and Aerospace Engineering 165: Advanced Manufacturing Choices,science,"Mechanical Engineering, Manufacturing",http://ocw.uci.edu/courses/Mechanical-and-Aerospace-Engineering-165-Advanced-Manufacturing-Choices.aspx
+Thermodynamics,science,"Engineering Systems, Thermodynamics",http://ocw.nd.edu/aerospace-and-mechanical-engineering/thermodynamics
+Introduction to Applied Statistics,statistics,"Probability, Mathematics, Logic",http://ocw.umb.edu/environmental-earth-and-ocean-sciences/eeos-601-introduction-to-applied-statistics-summer-2011/?searchterm=None
+Statistical Reasoning,statistics,"Probability, Mathematics, Logic",http://oli.cmu.edu/courses/free-open/statistical-reasoning-course-details/
+Patients and Populations: Medical Decision-Making,statistics,"Healthcare, Biostatistics, Population Science",http://open.umich.edu/education/med/m1/patients-pop-decision-making/fall2011.html
+Cognition & Learning in Educational Settings,teaching,"Cognition, Learning, Education",http://ocw.uci.edu/courses/Education-173-Cognition--Learning-in-Educational-Settings.aspx
+Teaching College - Level Science and Engineering,teaching,"Teaching, College, Science, Engineering",http://ocw.mit.edu/courses/chemistry/5-95j-teaching-college-level-science-and-engineering-spring-2009/
+Exploring Teaching and Learning in Tertiary Contexts,teaching,"Learning Theories, Education",http://ocw.usq.edu.au/course/view.php?id=7
+course_name,subject,tags,url
+ACC 311: Fundamentals of Auditing,accounting,"CPA (Certified Public Accountant), Auditing, Finance",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=ACC311
+ACC 501: Business Finance,accounting,"Finance, Business",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=ACC501
+FIN 622: Corporate Finance,accounting,"Finance, Business",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=FIN622
+Management of Libraries and Information Services,accounting,"Financial Management, Human Resources, Management",http://open.umich.edu/education/si/si626/winter2009.html
+FIN 623: Taxation Management,accounting,"CPA (Certified Public Accountant), Business, Finance, Tax",http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Law&course=FIN623
+MGT 101: Financial Accounting,accounting,"Finance, Accounting",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Accounting%2c+Banking+%26+Finance&course=MGT101
+Financial Accounting,accounting,"Finance, Accounting, Reporting, Tax",http://ocw.mit.edu/courses/sloan-school-of-management/15-515-financial-accounting-fall-2003/index.htm
+Taxes and Business Strategy,accounting,"Finance, Accounting, Tax, Business, Strategy",http://ocw.mit.edu/courses/sloan-school-of-management/15-518-taxes-and-business-strategy-fall-2002/index.htm
+Corporate Finance for Health Care Administrators,accounting,"Finance, Medical Administration",http://open.umich.edu/education/sph/hmp607/fall2008.html
+Object-Oriented Programming in C++,computerscience,"Computer Engineering, Programming, Software Development",http://ocw.usq.edu.au/course/view.php?id=13
+CS 470/670: Artificial Intelligence,computerscience,"Systems Design, Engineering, Programming",http://ocw.umb.edu/computer-science/artificial-intelligence
+Introduction to Robotics,computerscience,"Computer Engineering, Robotics",http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743
+Introduction to Computer Science: Programming Methodology,computerscience,"Programming, Software Engineering",http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
+Introduction to Computer Science: Programming Abstractions,computerscience,"Programming, Software Engineering",http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
+Introduction to Computer Science: Programming Paradigms,computerscience,"Programming, Software Engineering, Information Technology",http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+Artificial Intelligence: Machine Learning,computerscience,"Robotics, Artificial Intelligence, Machine Learning",http://see.stanford.edu/see/courseinfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1
+Artificial Intelligence: Natural Language Processing,computerscience,"Robotics, Artificial Intelligence, Natural Language Processing (NLP)",http://see.stanford.edu/see/courseinfo.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a
+Exposing Digital Photography,computerscience,"Photography, Hardware",http://tv.cse7.org/2010/fall/
+"Compilers: Principles, Techniques, and Tools",computerscience,"Compilers, Programming Languages",http://dragonbook.stanford.edu/
+Introduction to Videogame Studies,computerscience,"Videogame, Technology",http://ocw.mit.edu/courses/comparative-media-studies/cms-300-introduction-to-videogame-studies-fall-2011/
+Computers in Our World,computerscience,"Computing, Technology, Programming",https://www.cs.princeton.edu/courses/archive/fall06/cos109/
+Introduction to Computer Graphics,computerscience,"Computer Graphics, Transformations, Graphics",http://www.cs.ubc.ca/~tmm/courses/314/Vjan2007/
+Logic Programming,computerscience,"Logic, Programming, Static Analyses",https://www.cs.cmu.edu/~fp/courses/lp/handouts.html
+Computer Game Programming,computerscience,"Game Programming, Programming, Java",http://www.emunix.emich.edu/~evett/GameProgramming/index.html
+Introduction to Database Systems,computerscience,"Calculus, Algebra, Modeling, Databases",http://inst.eecs.berkeley.edu/~cs186/fa06/notes.php
+Introduction to Computer Systems,computerscience,"Programming, Memory, Machines, Internetworking",https://www.cs.cmu.edu/afs/cs/academic/class/15213-f06/www/lectures.html
+Linear Logic,computerscience,"Linear Logic, Deductions, Programming",https://www.cs.cmu.edu/~fp/courses/linear/handouts.html
+Automatic Speech Recognition,computerscience,"Algorithms, Automation, Engineering",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/
+Introduction to Programming,computerscience,"Programming, Transformers, Machines",http://www.eecs.qmul.ac.uk/~mmh/ItP/resources/index.html
+Algorithms and Data Structures,computerscience,"Algorithms, Data Structures, Java",http://www.eecs.qmul.ac.uk/~mmh/DCS128/notes/new_index.html
+Data Communication Networks,computerscience,"Databases, Networking",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-263j-data-communication-networks-fall-2002/lecture-notes/
+Concepts and Tools for Software Development,computerscience,"Software Development, Programming",https://www.cs.washington.edu/education/courses/cse303/07wi/
+Machine Learning,computerscience,"Machine Learning, Systems, Robotics",https://www.cs.cmu.edu/~awm/15781/
+CSE 461: Computer Communication and Networks,computerscience,"Networking, Databases, Internetworking",https://www.cs.washington.edu/education/courses/cse461/07wi/lectures/index.html
+CSE 403: Software Engineering,computerscience,"Software Engineering, Programming",https://www.cs.washington.edu/education/courses/cse403/07wi/
+CSE 322: Introduction to Formal Models in Computer Science,computerscience,"Formal Models, Programming Languages",https://www.cs.washington.edu/education/courses/cse322/06sp/
+CSE 326: Data Structures,computerscience,"Data Structures, Programming",https://www.cs.washington.edu/education/courses/cse326/07wi/lectures/calendar_wi07.htm
+Machine Organization and Assembly,computerscience,"Machine Organization, Assembly Language Programming, Programming",https://www.cs.washington.edu/education/courses/cse378/07wi/syllabus/index.shtml
+CSE444 Introduction to Database Systems,computerscience,"Databases, Networking, Query Execution",https://www.cs.washington.edu/education/courses/cse444/06au/Calendar.htm
+CSE 451: Operating Systems,computerscience,"Operating Systems, Systems, Memory",https://www.cs.washington.edu/education/courses/cse451/07wi/lectures.htm
+Advanced Internet and Web Services,computerscience,"Web Services, Internet, Interfaces",https://www.cs.washington.edu/education/courses/cse454/05sp/slides.html
+Computer Vision,computerscience,"Segmentation, Object Recognition, Optical Flow",https://www.cs.washington.edu/education/courses/cse455/07wi/notes.html
+Software for Embedded Systems,computerscience,"Software, Embedded Systems, Networks",https://www.cs.washington.edu/education/courses/cse466/06wi/lectures/
+Advanced Digital Design,computerscience,"Digital Synthesis, Modeling, Digital Design",https://www.cs.washington.edu/education/courses/cse467/05wi/calendar.html
+CSE 471: Computer Design and Organization,computerscience,"Caching, Synchronization, Processors, Dataflow",https://www.cs.washington.edu/education/courses/cse471/06sp/lectures.html
+CSE 473: Artificial Intelligence,computerscience,"Artificial Intelligence, Networks, Inference",https://www.cs.washington.edu/education/courses/cse473/06au/schedule/
+CSE 490: Introduction to Data Compression,computerscience,"Information Theory, Databases, Arithmetic Coding",https://www.cs.washington.edu/education/courses/cse490g/06wi/
+Design in Neurobotics,computerscience,"Neurobotics, Robotics",https://www.cs.washington.edu/education/courses/cse490i/07wi/lectures.html
+Computer Systems,computerscience,"Systems, Engineering",https://www.cs.washington.edu/education/courses/cse410/06sp/calendar410.html
+CSE 415: Introduction to Artificial Intelligence,computerscience,"Simulation, Artificial Intelligence, Ensembles",https://www.cs.washington.edu/education/courses/cse415/06wi/notes.html
+Algorithms & Computational Complexity,computerscience,"Algorithms, Computation",https://www.cs.washington.edu/education/courses/cse417/07wi/
+Implementation of Programming Languages,computerscience,"Programming Languages, Compiler Organization, Software Development",https://www.cs.washington.edu/education/courses/cse501/04wi/slides/index.html
+CSE503: Software Engineering,computerscience,"Software Development, Programming",https://www.cs.washington.edu/education/courses/cse503/06sp/
+Computational Neuroscience,computerscience,"Neurobiology, Networks, Coding",https://www.cs.washington.edu/education/courses/cse528/05wi/lectures.html
+Communicating with Mobile Technology,computerscience,"Mobile Technology, Mobile Applications, Engineering",http://ocw.mit.edu/courses/writing-and-humanistic-studies/21w-789-communicating-with-mobile-technology-spring-2011/
+Computer Vision,computerscience,"Matlab, Robotics, Computational Vision",http://www.robots.ox.ac.uk/~dwm/Courses/4CV/index.html
+CS 446: Real-Time Rendering,computerscience,"Rendering Engine, 3D Graphics, Visibility",https://www.cs.virginia.edu/~gfx/Courses/2004/RealTime/
+Introduction to Computer Graphics,computerscience,"Computer Graphics, Modeling, Programming",https://www.cs.virginia.edu/~gfx/Courses/2004/Intro.Spring.04/
+Animation,computerscience,"Inverse Kinematics, Motion Capture, Animation, Optimization, Physical Simulation",https://www.cs.virginia.edu/~gfx/courses/2003/Animation.fall.03/index.html
+Image Synthesis,computerscience,"Image Synthesis, Rendering, Computer Graphics",https://www.cs.virginia.edu/~gfx/Courses/2003/ImageSynthesis/
+Information Visualization,computerscience,"Perception, High Dimensionality, Animation",http://www.cs.ubc.ca/~tmm/courses/cpsc533c-06-fall/
+Introduction to Computation (Java),computerscience,"Computation, Java, Hardware",http://www.cs.ubc.ca/~tmm/courses/cpsc111-06-spr/
+Advanced Topics in Cryptography,computerscience,"Cryptography, Secure Computation, Mathematics",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-876j-advanced-topics-in-cryptography-spring-2003/lecture-notes/
+Quantum Computation,computerscience,"Quantum Computation, Information Processing, Quantum Logic, Quantum Algorithms",http://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm
+Principles of Digital Communication,computerscience,"Digital Communication, Communications, Data Compression",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-450-principles-of-digital-communication-i-fall-2009/
+I/O-Algorithms,computerscience,"Algorithms, Memory, Data Structures",http://www.daimi.au.dk/~large/ioS08/index.html
+Programming Languages and Translators,computerscience,"Programming Languages, Translators, Programming",http://www1.cs.columbia.edu/~aho/cs4115/
+Science of Sound,computerscience,"Electrical Engineering, Computing Engineering",http://ocw.usu.edu/Electrical_and_Computer_Engineering/Science_of_Sound/
+XML Foundations,computerscience,"Extensible Markup Language (XML), Programming Languages, Syntax",http://dret.net/lectures/xml-fall06/
+Introduction to Artificial Intelligence,computerscience,"Artificial Intelligence, Probability, Speech Recognition",http://www-inst.eecs.berkeley.edu/~cs188/fa06/lectures.html
+Python Track,computerscience,"Python, Programming Language, Coding",http://courses.cms.caltech.edu/cs11/material/python/index.html
+Introduction to Algorithms,computerscience,"Algorithms, Dynamic Programming, Numbers Pictures (NP)",http://courses.csail.mit.edu/6.006/spring11/notes.shtml
+Haskell Track,computerscience,"Haskell, Programming Language, DSLs (Domain-Specific Languages)",http://courses.cms.caltech.edu/cs11/material/haskell/index.html
+Java Track,computerscience,"Java, Programming Language, Coding",http://courses.cms.caltech.edu/cs11/material/java/mike/
+Advanced C++,computerscience,"C++, Standard Template Library (STL), Algorithms",http://courses.cms.caltech.edu/cs11/material/advcpp/index.html
+C++,computerscience,"C++, Functions, Algorithms",http://courses.cms.caltech.edu/cs11/material/cpp/donnie/index.html
+C Track,computerscience,"C Programming Language, UNIX, Coding",http://courses.cms.caltech.edu/cs11/material/c/mike/index.html
+Data Structures and Algorithms,computerscience,"Operating Systems, Data Structures, Algorithms",http://people.cis.ksu.edu/~schmidt/300s05/Lectures/home.html
+Java Programming,computerscience,"Java Programming, Programming Languages",http://sofia.fhda.edu/gallery/java/lessons.html
+Computer Language Engineering,computerscience,"Programming Languages, Functions, Software Development",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/
+Computational Camera and Photography,computerscience,"Computer Graphics, Electronics",http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/index.htm
+CS186: Introduction to Database Systems,computerscience,"Database Systems, Relational Algebra, Query Processing",http://inst.eecs.berkeley.edu/~cs186/fa06/notes.php
+Computer Science 164: Mobile Software Engineering,computerscience,"Computer Engineering, Mobile Engineering, Web Design",http://cs.harvard.edu/malan/courses/
+CHE 466: Process Dynamics and Controls,computerscience,"Process Technology, Engineering, Chemical Engineering",http://open.umich.edu/education/engin/che/che466/fall2008.html
+Quantum Computation,computerscience,"Science, Physics, Engineering",http://www.quiprocone.org/Protected/DD_lectures.htm
+The Beauty of Joy of Computing,computerscience,"Programming, Software Engineering","http://webcast.berkeley.edu/playlist#c,s,All,A048EC6D65F1CB15"
+Understanding Computers and the Internet,computerscience,"Hardware, Software, Internet, Website Development, Programming",http://computerscience1.tv/2011/spring/
+Building Mobile Applications - Android/iOS Apps,computerscience,"Applications, Programming",http://cs76.tv/2011/spring/
+Practical Aspects of Modern Cryptography,computerscience,"Cryptography, Protocols, Solutions, Digital Rights Management",https://www.cs.washington.edu/education/courses/csep590/06wi/lectures/
+"Search Engines: Technology, Society, and Business",computerscience,"Search Engines, Internet, Technology, Business","http://webcast.berkeley.edu/playlist#c,s,All,1777A89066B1D71D"
+The Structure and Interpretation of Computer Programs,computerscience,"Programming, Functions","http://webcast.berkeley.edu/playlist#c,s,All,3E89002AA9B9879E"
+Programming Languages and Compilers,computerscience,"Compilers, Programming Languages","http://webcast.berkeley.edu/playlist#c,s,All,03D59E2ECDDA66DF"
+Computer Musings,computerscience,"Literate Programming, Programming",http://scpd.stanford.edu/knuth/index.jsp
+Structure and Interpretation of Computer Programs,computerscience,"Computer Languages, Programming",https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+Introduction to Computer Science I,computerscience,"Programming, Software Engineering",http://cs50.tv/2011/fall/
+Music and Technology: Live Electronics Performance Practices,computerscience,"Electronics, Computer Synthesis Programming, Hardware, Software",http://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/
+Data Structures and Advanced Programming (Java),computerscience,"Data Structures, Programming, Java",http://wla.berkeley.edu/main.php?course=cs61b
+Circuits and Electronics,computerscience,"Circuits, Electronics, Electrical Engineering",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/
+Data Structures and Advanced Programming,computerscience,"Interfaces, Algorithmic Analysis, Programming",http://www-inst.eecs.berkeley.edu/~cs61b/sp06/lectures/index.html
+Vision Algorithms,computerscience,"Image Statistics, Energy, Algorithms, Partial Differential Equations",https://www.cs.washington.edu/education/courses/cse577/04sp/contents.html#BP
+Principles of Digital Communication II,computerscience,"Coding, Digital Communication",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-451-principles-of-digital-communication-ii-spring-2005/
+Introduction to Embedded Systems,computerscience,"Modeling, Dynamics, Systems","http://webcast.berkeley.edu/playlist#c,s,All,26403B76DCC8FFC8"
+Grid Computing,computerscience,"Grid Computing, Networking, Functionality",http://www.cs.kent.edu/~farrell/grid06/lectures/index.html
+Law and Veterinary Medicine,criminal-justice,"Criminal Law, Civil Law",http://ocw.tufts.edu/data/43/481655.pdf
+International Studies: Global Issues & Institutions,criminal-justice,"Terrorism, Political Science",http://ocw.uci.edu/courses/International-Studies-12-Global-Issues--Institutions.aspx
+IIPS 30101: Introduction to Peace Studies,criminal-justice,"Political Science, Government",http://ocw.nd.edu/peace-studies/introduction-to-peace-studies
+Theories of Public Policy,criminal-justice,"Public Policy, Law, Government",http://ocw.tufts.edu/Course/8/CourseHome
+"Disaster, Vulnerability and Resilience",criminal-justice,"Social, Political, Disaster, Policy & Planning",http://ocw.mit.edu/courses/urban-studies-and-planning/11-941-disaster-vulnerability-and-resilience-spring-2005/index.htm
+Ethics and the Law on the Electronic Frontier,criminal-justice,"Law, Policy, Internet, Technology, PATRIOT Act",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/
+Forensic Psychology,criminal-justice,"Forensic, Psychology, Crime, Violence, Psychoanalytics",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Psychology&course=PSY513
+Law and Society,criminal-justice,"Law, Legal, Society, Policy",http://ocw.mit.edu/courses/anthropology/21a-219-law-and-society-spring-2003/
+"Warlords, Terrorists, and Militias: Theorizing on Violent Non-State Actors",criminal-justice,"Terrorism, Violence, Warlords, Governments",http://ocw.mit.edu/courses/political-science/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/index.htm
+Immigration Law Symposium,criminal-justice,"Physical, Cognitive, Intelligence, PE",http://ocw.uci.edu/courses/Immigration-Law-Symposium.aspx
+Teaching Students with Special Needs: Behaviour Management,education,"Community Education, Youth Development",http://ocw.usq.edu.au/course/view.php?id=11
+Education 173: Cognition & Learning in Educational Settings,education,"Psychology, Educational Psychology",http://ocw.uci.edu/courses/Education-173-Cognition--Learning-in-Educational-Settings.aspx
+Technology and Society,education,"Sociology, Counselor Education",http://ocw.usq.edu.au/course/view.php?id=14
+Special Topics: Open Educational Resources and the University of Michigan,education,Technology Education,http://open.umich.edu/education/si/si521/winter2009.html
+PE for ME,education,"Physical, Cognitive, Intelligence, PE",http://ocw.mit.edu/courses/athletics-physical-education-and-recreation/pe-920-pe-for-me-spring-2005/
+Introduction to Open Education,education,"Open, Education, Copyright, Licensing, Learning, Thinking, Writing",http://ocw.usu.edu/instructional-technology-learning-sciences/introduction-to-open-education/index.html
+Research for the Classroom Teacher,education,"Model, Teaching, Classroom",http://ocw.usu.edu/education/research-for-the-classroom-teacher/index.html
+Preschool Learning Standards and Guidelines,education,"Preschool, Early, Childhood, Education",http://ocw.umb.edu/early-education-development/eec-preschool-learning-standards-and-guidelines
+Tennis,education,"Tennis, Techniques, Tactics",http://ocw.mit.edu/courses/athletics-physical-education-and-recreation/pe-710-tennis-spring-2007/
+Dementia: Update for the Practitioner,healthcare,"Medicine, Neurology, Healthcare",http://ci.columbia.edu/ci/ecourses/c1182_detail.html
+Epidemiology,healthcare,"Public Health, Epidemiology",http://open.uwec.edu/course/64/epidemiology
+Leadership Training Workshop for Health Professionals,healthcare,"Health Information Management, Healthcare, Public Health",http://open.umich.edu/education/med/oernetwork/health-admin/org-admin/leadership-health/2012.html
+Management: Waste Management,healthcare,"Public Health, Veterinary Medicine, Clinical Medicine",http://ocw.tufts.edu/Content/46/lecturenotes/532600/532621
+Medical Interviewing and the Doctor-Patient Relationship,healthcare,"Technical Communication, Communications, Allied Health",http://ocw.tufts.edu/Content/70/lecturenotes/1232943
+Medicine and Public Health in American History,healthcare,"Medical Science, Medicine, History",http://ocw.nd.edu/history/medicine-and-public-health-in-american-history
+Population Medicine,healthcare,"Public Health, Epidemiology",http://ocw.tufts.edu/Course/42
+Quality Oversight in the Health Care Marketplace,healthcare,"Quality Assurance, Medicine, Policies",http://ocw.tufts.edu/Course/69
+Measuring Health and Disease I: Introduction to Epidemiology Module Guide,healthcare,"Public Health, Epidemiology",http://open.umich.edu/education/med/oernetwork/public-health/epidemiology/intro-epidemiology/2010.html
+Health Management I Module Guide,healthcare,"Medical Administration, Management",http://open.umich.edu/education/med/oernetwork/health-admin/org-admin/health-management-i/2008.html
+Managing Human Resources for Health Module Guide,healthcare,"Healthcare Management, Healthcare Administration, Human Resources",http://open.umich.edu/education/med/oernetwork/health-admin/org-admin/managing-hr-health/2010.html
+Public Health Emergency Planning and Management for Districts,healthcare,"Public Health, Healthcare Policy, Disaster Management",http://open.umich.edu/education/med/oernetwork/public-health/ep/disaster-response/2012.html
+Public Hygiene and Epidemiology,healthcare,"Public Health, Epidemiology",http://ocw.tudelft.nl//courses/watermanagement/public-hygiene-and-epidemiology/course-home/
+PPM 121 Nutrition and Medicine,healthcare,"Nutrition, Human Health",http://ocw.tufts.edu/Course/47
+Workshops in End-of-Life Training for Health Professionals in Children's Hospitals,healthcare,"Pediatrics, Medicine",http://open.umich.edu/education/med/resources/palliative-care/2010.html
+Using Asthma Equipment with Children,healthcare,"Pediatrics, Medicine",http://open.umich.edu/education/med/resources/pediatric-asthma-equipment/2011.html
+Lennox Castle Hospital,healthcare,"History, Healthcare Administration",http://www.open.edu/openlearn/body-mind/social-care/lennox-castle-hospital/content-section-0?name=K100_7
+Motivational Interviewing,healthcare,"Communications, Medical Communication",http://ocw.tufts.edu/Content/70/lecturenotes/1259452
+Special Care in Dentistry,healthcare,"Dental, Medicine, Special Needs",http://ocw.tufts.edu/Course/56/Coursehome
+Foundations of Public Health,healthcare,"Public Health, Epidemiology, Research",http://ocw.uci.edu/courses/Foundations-of-Public-Health-Pub-Hlth-200.aspx
+Medical Ethics,healthcare,"Ethics, Medicine",http://ocw.nd.edu/philosophy/medical-ethics
+African American Studies 40A: African American Studies,humanities,"Culture Studies, Creative Studies",http://ocw.uci.edu/courses/African-American-Studies-40A-African-American-Studies.aspx
+"Monarchs, People, and History",humanities,"History, Organizational Leadership, Institutional Leadership",http://ocw.umb.edu/history/monarchs-people-and-history
+New Media Literacies,humanities,"Literacy, New Media, History",http://ocw.mit.edu/courses/comparative-media-studies/cms-998-new-media-literacies-spring-2007/
+Understanding Records and Archives: Principles and Practices,humanities,"History, Sociology, Archival Science",http://open.umich.edu/education/si/si580/winter2009.html
+Forms of Democracy in Nineteenth-Century U.S. Literature,humanities,"Language Arts, Literature, Political Science",http://ocw.nd.edu/english/forms-of-democracy-in-nineteenth-century-u.s.-literature
+Reinventing the Fairy Tale,humanities,"Reading, Language Arts, Literature",http://ocw.nd.edu/english/reinventing-the-fairy-tale
+Women's Narrative in the Southern Cone,humanities,"Reading, Language Arts, Literature, Sociology, Spanish",http://ocw.nd.edu/romance-languages-and-literatures/womens-narrative-in-the-southern-cone
+Cultural Anthropology,humanities,"Anthropology, Cultural Studies",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Sociology&course=SOC401
+Introduction to Sociology,humanities,"Sociology, Social Science",http://ocw.vu.edu.pk/CourseDetails.aspx?cat=Sociology&course=SOC101
+"Internet History, Technology, and Security",information-technology,"IT Security, Cyber Security",http://open.umich.edu/education/si/coursera-ihts/summer2012.html
+Ethics and Information Technology,information-technology,"Ethics, Cyber Security",http://open.umich.edu/education/si/si410/fall2010.html
+SI 640/ SI740: Digital Libraries and Archives,information-technology,Library Science,http://open.umich.edu/education/si/si640/winter2009.html
+SI 657/757: Information Technology and Global Development,information-technology,"Instructional Technology, Information Policies",http://open.umich.edu/education/si/si657/winter2010.html
+SI 615: Seminar on Digital Libraries,information-technology,Library Science,http://open.umich.edu/education/si/si615/winter2008.html
+SI 643: Professional Practice in Libraries and Information Centers,information-technology,Library Science,http://open.umich.edu/education/si/si643/winter2009.html
+SI 626: Management of Libraries and Information Services,information-technology,"Library Science, Management, Public Relations",http://open.umich.edu/education/si/si626/winter2009.html
+Leadership and Management: Managing Change in Healthcare IT Implementations,information-technology,"Management Information Systems, Healthcare Management",http://open.umich.edu/education/med/oernetwork/informatics/med/managing-change-healthcare-it/2011.html
+Database Systems,information-technology,"Database, Systems, Technology",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/index.htm
+Data Mining,information-technology,"Data, Mining, Data Warehouses, Technology, Statistics",http://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/index.htm
+Microsoft PowerPoint - Lesson 1,information-technology,"Presentations, Microsoft, PowerPoint, Slides",http://ocw.usu.edu/instructional-technology-learning-sciences/computer-applications-for-instruction-and-training/Microsoft_PowerPoint_-_Lesson_1.html
+Practical Programming in C,information-technology,"C, Programming, Software, Unix",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm
+Creole Language and Culture,language,"Culture Studies, Creative Studies, Linguistics, Reading",http://ocw.nd.edu/romance-languages-and-literatures/creole-language-and-culture
+Germany Today: Intensive Study of German Language and Culture,language,"German, Language, Culture, Professionals",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/index.htm
+Portuguese II,language,"Portuguese, Linguistics, Language",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-802-portuguese-ii-spring-2012/index.htm
+Chinese I (Regular),language,"Chinese, Mandarin, Language",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-101-chinese-i-regular-spring-2006/index.htm
+Elementary Russian I,language,"Russian, Language, Vocabulary, Culture",http://ocw.usask.ca/AR/RUSS/114/
+Intermediate Japanese I,language,"Language, Japanese",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-503-intermediate-japanese-i-fall-2004/
+English as a Second Language (ESL) Podcast - Learn English Online,language,"English, Language, Secondary Language",https://itunes.apple.com/us/podcast/english-as-second-language/id75908431?mt=2&ign-mpt=uo%3D4
+Japanese I,language,"Language, Japanese",http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-501-japanese-i-fall-2012/
+Linear Partial Differential Equations,math,"Differential Equations, Applied Mathematics, Wave Equations",http://ocw.mit.edu/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/
+Geometry and Quantum Field Theory,math,"Quantum Field Theory, Geometry, Functional Integrals",http://ocw.mit.edu/courses/mathematics/18-238-geometry-and-quantum-field-theory-fall-2002/index.htm
+Combinatorial Optimization,math,"Combinatorial Optimization, Linear Programming",http://ocw.mit.edu/courses/mathematics/18-433-combinatorial-optimization-fall-2003/index.htm
+Introduction to Numerical Methods,math,"Numerical Linear Algebra, Numerical Methods, Differential Equations",http://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/
+Measure and Integration,math,"Fourier Transform, Integration",http://ocw.mit.edu/courses/mathematics/18-125-measure-and-integration-fall-2003/index.htm
+Topics in Several Complex Variables,math,"Harmonic Theory, Decomposition Theorem",http://ocw.mit.edu/courses/mathematics/18-117-topics-in-several-complex-variables-spring-2005/index.htm
+Discrete Mathematics for Computer Science,math,"Modular Arithmetic, Polynomials, Probability, Statistics",http://www-inst.eecs.berkeley.edu/~cs70/fa06/#lecturenotes
+Abstract Algebra,math,"Group Fundamentals, Algebraic Number Theory, Geometry",http://www.math.uiuc.edu/~r-ash/Algebra.html
+Algebraic Number Theory,math,"Prime Ideals, Discriminants, Number Theory",http://www.math.uiuc.edu/~r-ash/ANT.html
+Commutative Algebra,math,"Algebra, Ring Theory, Dimension Theory",http://www.math.uiuc.edu/~r-ash/ComAlg.html
+Complex Variables,math,"Elementary Theory, Complex Variables, Analytic Functions",http://www.math.uiuc.edu/~r-ash/CV.html
+Statistics,math,"Statistics, Probability",http://www.math.uiuc.edu/~r-ash/Stat.html
+Analytic Number Theory I,math,"Analytic Techniques, Number Theory",http://www.math.psu.edu/rvaughan/Math571F04.html
+Complex Numbers and Ordinary Differential Equations,math,"Differentials, Complex Numbers",http://www.physics.ox.ac.uk/users/ross/lecturenotes.htm
+Geometry,math,"Algebraic Curves, Differentiable Manifolds, Geometry",http://people.maths.ox.ac.uk/hitchin/hitchinnotes/hitchinnotes.html
+Statistics,math,"Statistics, Probability, Simulation",http://www.stats.ox.ac.uk/~reinert/
+Analysis of Boolean Functions,math,"Boolean Functions, Linearity, Fourier Expansion",https://www.cs.cmu.edu/~odonnell/boolean-analysis/
+Polynomials of Random Variables,math,"Polynomials, Random Variables, Probability, Statistics",http://www.stat.berkeley.edu/~mossel/teach/206af05/index.htm
+Topics in Geometry: Dirac Geometry,math,"Geometry, Symmetry",http://ocw.mit.edu/courses/mathematics/18-969-topics-in-geometry-dirac-geometry-fall-2006/
+Random Walks and Diffusion,math,"Random Walks, Diffusion",http://ocw.mit.edu/courses/mathematics/18-366-random-walks-and-diffusion-fall-2006/index.htm
+Single Variable Calculus,math,"Calculus, Differentiation, Functions",http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2005/
+Geometry of Manifolds,math,"Geometry, Manifolds",http://ocw.mit.edu/courses/mathematics/18-966-geometry-of-manifolds-spring-2007/index.htm
+Calculus of Several Variables,math,Multivariable Calculus,http://ocw.mit.edu/courses/mathematics/18-022-calculus-of-several-variables-fall-2010/
+Honors Differential Equations,math,"Differential Equations, Existence Theorems",http://ocw.mit.edu/courses/mathematics/18-034-honors-differential-equations-spring-2009/
+Single Variable Calculus,math,"Calculus, Math, Mathematics",http://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+Problem Solving Seminar,math,"Math, Mathematics, Problem Solving, Techniques",http://ocw.mit.edu/courses/mathematics/18-s34-problem-solving-seminar-fall-2007/assignments/
+Mathematics for Computer Science,math,"Discrete Math, Mathematics, Computer Science",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/
+Probabilistic Systems Analysis and Applied Probability,math,"Math, Mathematics, Probability, Statistics",http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/
+Multivariable Calculus,math,"Calculus, Math, Mathematics",http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-spring-2006/
+Elements of Calculus I,math,"Calculus, Math, Mathematics",http://ocw.nd.edu/mathematics/elements-of-calculus-i
+Calculus II for Business,math,"Calculus, Math, Mathematics, Business, Models",http://ocw.nd.edu/mathematics/calculus-ii-for-business
+The Art of Counting,math,"Math, Mathematics, Quantitative",http://ocw.mit.edu/courses/mathematics/18-s66-the-art-of-counting-spring-2003/
+Differential Equations,math,"Differential Equations, Engineering",http://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/
+The Calculus Lifesaver: All the Tools You Need to Excel at Calculus,math,"Functions, Trigonometry, Exponentials, Theorems",https://press.princeton.edu/video/banner/
+Search for Randomness,math,"Pseudorandomness, Cryptography, Numerical Simulation",http://video.ias.edu/Search-for-Randomness
+The Practice of Mathematics,math,"Algebra, Geometry",http://video.ias.edu/The-Practice-of-Mathematics
+Automorphic Forms,math,"Theorems, Analytic Number Theory, Arithmetic, Geometry",http://video.ias.edu/Automorphic-Forms
+Relativity,physics,"Relativity, Paradoxes, Electromagnetism, Particle Physics",http://ocw.mit.edu/courses/physics/8-033-relativity-fall-2006/
+Physics of Rock Climbing,physics,"Engineering, Communications",http://ocw.mit.edu/courses/experimental-study-group/es-255-physics-of-rock-climbing-spring-2006/
+Galileo and Einstein,physics,"Relativity, Time, Space",http://galileo.phys.virginia.edu/classes/109N/lectures/lecturelist.html
+Modern Physics,physics,"Relativity, Quantum Mechanics",http://galileo.phys.virginia.edu/classes/252/home.html
+Advanced Quantum Mechanics,physics,"Quantum Mechanics, Particle Physics",http://www.physics.ox.ac.uk/users/ross/Advanced%20Quantum%20Mechanics.htm
+Fundamental Principles of Particle Physics,physics,"Particle Physics, Quantum Mechanics",http://www.physics.ox.ac.uk/users/ross/cern_lectures.htm
+Laser Physics,physics,"Molecular Spectra, Energy, Chemistry",http://www.physics.ox.ac.uk/users/hooker/teaching/
+Galaxies and the Expanding Universe,physics,"Atomic Theory, Astrophysics, Astronomy, Cosmology",http://abyss.uoregon.edu/~js/ast123/
+Stellar Structure and Evolution,physics,"Astrophysics, Science, Stellar Classification",http://www-astro.physics.ox.ac.uk/~podsi/lec_mm03.html
+Mobile Robots,physics,"Mobile Robots, Engineering",http://www.robots.ox.ac.uk/~pnewman/Teaching/C4CourseResources/C4BResources.html
+Introduction to Plasma Physics I,physics,"Plasma Physics, Electromagnetic Theory, Energy",http://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2003/
+Astrophysics II,physics,"Astrophysics, Science, Astronomy",http://ocw.mit.edu/courses/physics/8-902-astrophysics-ii-fall-2004/
+Quantum Theory I,physics,"Quantum Theory, Uncertainty Relations, Quantum Mechanics",http://ocw.mit.edu/courses/physics/8-321-quantum-theory-i-fall-2002/
+Physics for Humanists,physics,"Relative Motion, Quantum Physics, Probability, Nuclear Radiation",http://ocw.tufts.edu/Course/30/Lecturenotes
+Applied Nuclear Physics,physics,"Nuclear Physics, Energy, Matter",http://ocw.mit.edu/courses/nuclear-engineering/22-101-applied-nuclear-physics-fall-2006/
+Polymer Physics,physics,"Polymer Physics, Mechanics",http://ocw.mit.edu/courses/materials-science-and-engineering/3-063-polymer-physics-spring-2007/
+Mechanical Behavior of Materials,physics,"Mechanical Behavior, Materials, Structures",http://ocw.mit.edu/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/
+Feedback Control Systems,physics,"Control Design, Implementation Issues, Controllers",http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-30-feedback-control-systems-fall-2010/lecture-notes/
+Optical Physics and Quantum Electronics,physics,"Electromagnetic Fields, Radiation, Matter, Quantum Theory",http://people.seas.harvard.edu/~jones/ap216/lectures/lectures.html
+Quantum Theory II,physics,"Quantum Theory, Stressing Principles",http://ocw.mit.edu/courses/physics/8-322-quantum-theory-ii-spring-2003/
+Introduction to Modern Physics,physics,"Relativity, Transformations, Wave Functions, Probability",http://ocw.tufts.edu/Course/36/Lecturenotes
+MHD Theory of Fusion Systems,physics,"MHD Equilibria, Fusion Systems, Energy",http://ocw.mit.edu/courses/nuclear-engineering/22-615-mhd-theory-of-fusion-systems-spring-2007/
+Spacetime Warps and the Quantum,physics,"Relativity, Time, Space, Astrophysics",http://online.kitp.ucsb.edu/online/plecture/thorne/
+Introduction to Solar System Astronomy,physics,"Astronomy, Cosmology, Science",http://www.astronomy.ohio-state.edu/~pogge/Ast161/Audio/
+Planets and Life beyond the Solar System,physics,"Astronomy, Science",http://www.bath.ac.uk/podcast/
+PHYS 200: FUNDAMENTALS OF PHYSICS I,physics,"Science, Mathematics",http://oyc.yale.edu/physics/phys-200
+Physics I: Classical Mechanics,physics,"Science, Mechanics",http://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/
+"String Theory, Black Holes, Laws of Nature",physics,"Science, Mathematics, String Theory, Astronomy",http://athome.harvard.edu/programs/sst/index.html
+Physics II: Electricity and Magnetism,physics,"Science, Electricity, Magnetism",http://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/
+Natures Greatest Puzzles,physics,"Kinematics, Cosmology, Astronomy, Matter, Mathematics, Science",http://www.slac.stanford.edu/econf/C040802/program.htm
+Exploring Black Holes: General Relativity & Astrophysics,physics,"Science, Mathematics, Cosmology, Astrophysics",http://ocw.mit.edu/courses/physics/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/
+Frontiers and Controversies in Astrophysics,physics,"Science, Astrophysics","http://webcast.berkeley.edu/playlist#c,s,All,69F56882DF6F04B3"
+Gravity in the Quantum World and the Cosmos,physics,"Gravity, Science, Chemistry, Cosmology",http://www-conf.slac.stanford.edu/ssi/2005/program.htm
+Gravity in the Quantum World and the Cosmos,physics,"Gravity, Science, Chemistry, Cosmology",http://www-conf.slac.stanford.edu/ssi/2005/program.htm
+A Complete Search for New Suns,physics,"Astrophysics, Science, Cosmology",http://athome.harvard.edu/programs/css/index.html
+The Evolution of Bodies Bound by Gravity,physics,"Physical Law, Heat Flows, Gravity",http://video.ias.edu/Bodies-Bound-by-Gravity
+Optics,physics,"Optics, Lens, Mirrors, Polarization",http://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/
+In the Beginning: Modern Cosmology and the Origin of Our Universe,physics,"Cosmology, Astrophysics, Science",http://video.ias.edu/In-the-Beginning
+Physics,physics,"Mechanics, Electricity, Magnetism",http://oli.cmu.edu/courses/future/physics-course-details/
+A Celebration of the Life and Work of John Norris Bahcall,physics,"Astrophysics, Astronomy, Cosmology",http://video.ias.edu/Celebration-of-John-Bahcall
+Easter Island and Entropy,science,"Entropy, Physics, Geology, Ecology",http://ocw.nd.edu/philosophy/environmental-philosophy/lecture-transcripts/easter-island-and-entropy
+Marine Power and Propulsion,science,"Marine Science, Engineering",http://ocw.mit.edu/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/
+"Planning, Policy and Design: Water Resource Policy",science,"Environmental Engineering, Ecology",http://ocw.uci.edu/courses/Policy-Planning-and-Design-139-Water-Resource-Policy.aspx
+PHIL 30390 - Environmental Philosophy,science,"Philosophy, Ecology, Environmental Science",http://ocw.nd.edu/philosophy/environmental-philosophy
+General Science,science,"Scientific Method, Biology, Physics, Chemistry",http://ocw.usq.edu.au/course/view.php?id=10
+Environmental Science Lab,science,"Environmental Science, Ecology, Conservation",http://ocw.kaplan.edu/general-education/sc226-environmental-science-lab
+The Rise of Modern Science,science,"Science, History, Society",http://ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/
+"Atmosphere, Ocean and Climate Dynamics",science,"Physics, Ocean, Atmosphere, Climate, Planets",http://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/
+Disease and Society in America,science,"Medicine, Disease, Culture, Politics",http://ocw.mit.edu/courses/science-technology-and-society/sts-005-disease-and-society-in-america-fall-2005/
+Mechanical and Aerospace Engineering 165: Advanced Manufacturing Choices,science,"Mechanical Engineering, Manufacturing",http://ocw.uci.edu/courses/Mechanical-and-Aerospace-Engineering-165-Advanced-Manufacturing-Choices.aspx
+Thermodynamics,science,"Engineering Systems, Thermodynamics",http://ocw.nd.edu/aerospace-and-mechanical-engineering/thermodynamics
+Introduction to Applied Statistics,statistics,"Probability, Mathematics, Logic",http://ocw.umb.edu/environmental-earth-and-ocean-sciences/eeos-601-introduction-to-applied-statistics-summer-2011/?searchterm=None
+Statistical Reasoning,statistics,"Probability, Mathematics, Logic",http://oli.cmu.edu/courses/free-open/statistical-reasoning-course-details/
+Patients and Populations: Medical Decision-Making,statistics,"Healthcare, Biostatistics, Population Science",http://open.umich.edu/education/med/m1/patients-pop-decision-making/fall2011.html
+Cognition & Learning in Educational Settings,teaching,"Cognition, Learning, Education",http://ocw.uci.edu/courses/Education-173-Cognition--Learning-in-Educational-Settings.aspx
+Teaching College - Level Science and Engineering,teaching,"Teaching, College, Science, Engineering",http://ocw.mit.edu/courses/chemistry/5-95j-teaching-college-level-science-and-engineering-spring-2009/
+Exploring Teaching and Learning in Tertiary Contexts,teaching,"Learning Theories, Education",http://ocw.usq.edu.au/course/view.php?id=7
